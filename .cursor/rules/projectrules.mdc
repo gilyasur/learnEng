@@ -1,0 +1,8 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+- Never attempt to execute terminal commands such as "npm start", "python manage.py runserver", or any other command that starts a server or process directly from the chat.
+- Always ask the user for explicit confirmation before suggesting or executing any terminal command.
+- If a command is suggested, provide it as plain text for the user to copy and run manually, rather than executing it automatically.
