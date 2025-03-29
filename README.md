@@ -4,7 +4,7 @@ A React Native mobile application designed to help kids learn English vocabulary
 
 ![App Screenshot Placeholder](screenshot_placeholder.png)
 
-## Features
+## Featuress
 
 - **Vocabulary Learning**: Learn words across multiple categories:
   - Animals

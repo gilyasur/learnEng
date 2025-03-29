@@ -1,0 +1,167 @@
+{
+  "vocabulary": [
+    {
+      "category": "Animals",
+      "hebrewCategory": "חיות",
+      "words": [
+        { "id": 1, "english": "Dog", "hebrew": "כלב" },
+        { "id": 2, "english": "Cat", "hebrew": "חתול" },
+        { "id": 3, "english": "Elephant", "hebrew": "פיל" },
+        { "id": 4, "english": "Lion", "hebrew": "אריה" },
+        { "id": 5, "english": "Monkey", "hebrew": "קוף" },
+        { "id": 6, "english": "Giraffe", "hebrew": "ג׳ירפה" }
+      ]
+    },
+    {
+      "category": "Fruits",
+      "hebrewCategory": "פירות",
+      "words": [
+        { "id": 1, "english": "Apple", "hebrew": "תפוח" },
+        { "id": 2, "english": "Banana", "hebrew": "בננה" },
+        { "id": 3, "english": "Orange", "hebrew": "תפוז" },
+        { "id": 4, "english": "Strawberry", "hebrew": "תות" },
+        { "id": 5, "english": "Grapes", "hebrew": "ענבים" },
+        { "id": 6, "english": "Watermelon", "hebrew": "אבטיח" }
+      ]
+    },
+    {
+      "category": "Vegetables",
+      "hebrewCategory": "ירקות",
+      "words": [
+        { "id": 1, "english": "Carrot", "hebrew": "גזר" },
+        { "id": 2, "english": "Tomato", "hebrew": "עגבניה" },
+        { "id": 3, "english": "Cucumber", "hebrew": "מלפפון" },
+        { "id": 4, "english": "Potato", "hebrew": "תפוח אדמה" },
+        { "id": 5, "english": "Broccoli", "hebrew": "ברוקולי" },
+        { "id": 6, "english": "Corn", "hebrew": "תירס" }
+      ]
+    },
+    {
+      "category": "Colors",
+      "hebrewCategory": "צבעים",
+      "words": [
+        { "id": 1, "english": "Red", "hebrew": "אדום" },
+        { "id": 2, "english": "Blue", "hebrew": "כחול" },
+        { "id": 3, "english": "Green", "hebrew": "ירוק" },
+        { "id": 4, "english": "Yellow", "hebrew": "צהוב" },
+        { "id": 5, "english": "Purple", "hebrew": "סגול" },
+        { "id": 6, "english": "Orange", "hebrew": "כתום" },
+        { "id": 7, "english": "Black", "hebrew": "שחור" },
+        { "id": 8, "english": "White", "hebrew": "לבן" }
+      ]
+    },
+    {
+      "category": "Family",
+      "hebrewCategory": "משפחה",
+      "words": [
+        { "id": 1, "english": "Father", "hebrew": "אבא" },
+        { "id": 2, "english": "Mother", "hebrew": "אמא" },
+        { "id": 3, "english": "Brother", "hebrew": "אח" },
+        { "id": 4, "english": "Sister", "hebrew": "אחות" },
+        { "id": 5, "english": "Grandfather", "hebrew": "סבא" },
+        { "id": 6, "english": "Grandmother", "hebrew": "סבתא" },
+        { "id": 7, "english": "Baby", "hebrew": "תינוק" }
+      ]
+    },
+    {
+      "category": "Body Parts",
+      "hebrewCategory": "חלקי גוף",
+      "words": [
+        { "id": 1, "english": "Head", "hebrew": "ראש" },
+        { "id": 2, "english": "Eye", "hebrew": "עין" },
+        { "id": 3, "english": "Ear", "hebrew": "אוזן" },
+        { "id": 4, "english": "Nose", "hebrew": "אף" },
+        { "id": 5, "english": "Mouth", "hebrew": "פה" },
+        { "id": 6, "english": "Hand", "hebrew": "יד" },
+        { "id": 7, "english": "Foot", "hebrew": "רגל" },
+        { "id": 8, "english": "Hair", "hebrew": "שיער" }
+      ]
+    },
+    {
+      "category": "Clothing",
+      "hebrewCategory": "בגדים",
+      "words": [
+        { "id": 1, "english": "T-Shirt", "hebrew": "חולצה" },
+        { "id": 2, "english": "Pants", "hebrew": "מכנסיים" },
+        { "id": 3, "english": "Shoes", "hebrew": "נעליים" },
+        { "id": 4, "english": "Hat", "hebrew": "כובע" },
+        { "id": 5, "english": "Socks", "hebrew": "גרביים" },
+        { "id": 6, "english": "Dress", "hebrew": "שמלה" },
+        { "id": 7, "english": "Jacket", "hebrew": "מעיל" },
+        { "id": 8, "english": "Scarf", "hebrew": "צעיף" }
+      ]
+    },
+    {
+      "category": "Numbers",
+      "hebrewCategory": "מספרים",
+      "words": [
+        { "id": 1, "english": "One", "hebrew": "אחת" },
+        { "id": 2, "english": "Two", "hebrew": "שתיים" },
+        { "id": 3, "english": "Three", "hebrew": "שלוש" },
+        { "id": 4, "english": "Four", "hebrew": "ארבע" },
+        { "id": 5, "english": "Five", "hebrew": "חמש" },
+        { "id": 6, "english": "Six", "hebrew": "שש" },
+        { "id": 7, "english": "Seven", "hebrew": "שבע" },
+        { "id": 8, "english": "Eight", "hebrew": "שמונה" },
+        { "id": 9, "english": "Nine", "hebrew": "תשע" },
+        { "id": 10, "english": "Ten", "hebrew": "עשר" }
+      ]
+    },
+    {
+      "category": "Weather",
+      "hebrewCategory": "מזג אוויר",
+      "words": [
+        { "id": 1, "english": "Sunny", "hebrew": "שמשי" },
+        { "id": 2, "english": "Rainy", "hebrew": "גשום" },
+        { "id": 3, "english": "Cloudy", "hebrew": "מעונן" },
+        { "id": 4, "english": "Windy", "hebrew": "סוער" },
+        { "id": 5, "english": "Snowy", "hebrew": "מושלג" },
+        { "id": 6, "english": "Hot", "hebrew": "חם" },
+        { "id": 7, "english": "Cold", "hebrew": "קר" },
+        { "id": 8, "english": "Storm", "hebrew": "סופה" }
+      ]
+    },
+    {
+      "category": "Emotions",
+      "hebrewCategory": "רגשות",
+      "words": [
+        { "id": 1, "english": "Happy", "hebrew": "שמח" },
+        { "id": 2, "english": "Sad", "hebrew": "עצוב" },
+        { "id": 3, "english": "Angry", "hebrew": "כועס" },
+        { "id": 4, "english": "Surprised", "hebrew": "מופתע" },
+        { "id": 5, "english": "Scared", "hebrew": "מפחד" },
+        { "id": 6, "english": "Sleepy", "hebrew": "ישנוני" },
+        { "id": 7, "english": "Confused", "hebrew": "מבולבל" },
+        { "id": 8, "english": "Excited", "hebrew": "נרגש" }
+      ]
+    },
+    {
+      "category": "Transportation",
+      "hebrewCategory": "תחבורה",
+      "words": [
+        { "id": 1, "english": "Car", "hebrew": "מכונית" },
+        { "id": 2, "english": "Bus", "hebrew": "אוטובוס" },
+        { "id": 3, "english": "Train", "hebrew": "רכבת" },
+        { "id": 4, "english": "Airplane", "hebrew": "מטוס" },
+        { "id": 5, "english": "Boat", "hebrew": "סירה" },
+        { "id": 6, "english": "Bicycle", "hebrew": "אופניים" },
+        { "id": 7, "english": "Motorcycle", "hebrew": "אופנוע" },
+        { "id": 8, "english": "Helicopter", "hebrew": "מסוק" }
+      ]
+    },
+    {
+      "category": "Toys",
+      "hebrewCategory": "צעצועים",
+      "words": [
+        { "id": 1, "english": "Ball", "hebrew": "כדור" },
+        { "id": 2, "english": "Doll", "hebrew": "בובה" },
+        { "id": 3, "english": "Teddy Bear", "hebrew": "דובי" },
+        { "id": 4, "english": "Blocks", "hebrew": "קוביות" },
+        { "id": 5, "english": "Car Toy", "hebrew": "מכונית צעצוע" },
+        { "id": 6, "english": "Puzzle", "hebrew": "פאזל" },
+        { "id": 7, "english": "Robot", "hebrew": "רובוט" },
+        { "id": 8, "english": "Crayons", "hebrew": "צבעים" }
+      ]
+    }
+  ]
+} 
