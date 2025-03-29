@@ -1,0 +1,622 @@
+{
+  "vocabulary": [
+    {
+      "category": "Animals",
+      "hebrewCategory": "\u05d7\u05d9\u05d5\u05ea",
+      "words": [
+        {
+          "id": 1,
+          "english": "Dog",
+          "hebrew": "\u05db\u05dc\u05d1",
+          "soundFile": "../assets/sounds/animals/Dog.mp3"
+        },
+        {
+          "id": 2,
+          "english": "Cat",
+          "hebrew": "\u05d7\u05ea\u05d5\u05dc",
+          "soundFile": "../assets/sounds/animals/Cat.mp3"
+        },
+        {
+          "id": 3,
+          "english": "Elephant",
+          "hebrew": "\u05e4\u05d9\u05dc",
+          "soundFile": "../assets/sounds/animals/Elephant.mp3"
+        },
+        {
+          "id": 4,
+          "english": "Lion",
+          "hebrew": "\u05d0\u05e8\u05d9\u05d4",
+          "soundFile": "../assets/sounds/animals/Lion.mp3"
+        },
+        {
+          "id": 5,
+          "english": "Monkey",
+          "hebrew": "\u05e7\u05d5\u05e3",
+          "soundFile": "../assets/sounds/animals/Monkey.mp3"
+        },
+        {
+          "id": 6,
+          "english": "Giraffe",
+          "hebrew": "\u05d2\u05f3\u05d9\u05e8\u05e4\u05d4",
+          "soundFile": "../assets/sounds/animals/Giraffe.mp3"
+        }
+      ]
+    },
+    {
+      "category": "Fruits",
+      "hebrewCategory": "\u05e4\u05d9\u05e8\u05d5\u05ea",
+      "words": [
+        {
+          "id": 1,
+          "english": "Apple",
+          "hebrew": "\u05ea\u05e4\u05d5\u05d7",
+          "soundFile": "../assets/sounds/fruits/Apple.mp3"
+        },
+        {
+          "id": 2,
+          "english": "Banana",
+          "hebrew": "\u05d1\u05e0\u05e0\u05d4",
+          "soundFile": "../assets/sounds/fruits/Banana.mp3"
+        },
+        {
+          "id": 3,
+          "english": "Orange",
+          "hebrew": "\u05ea\u05e4\u05d5\u05d6",
+          "soundFile": "../assets/sounds/fruits/Orange.mp3"
+        },
+        {
+          "id": 4,
+          "english": "Strawberry",
+          "hebrew": "\u05ea\u05d5\u05ea",
+          "soundFile": "../assets/sounds/fruits/Strawberry.mp3"
+        },
+        {
+          "id": 5,
+          "english": "Grapes",
+          "hebrew": "\u05e2\u05e0\u05d1\u05d9\u05dd",
+          "soundFile": "../assets/sounds/fruits/Grapes.mp3"
+        },
+        {
+          "id": 6,
+          "english": "Watermelon",
+          "hebrew": "\u05d0\u05d1\u05d8\u05d9\u05d7",
+          "soundFile": "../assets/sounds/fruits/Watermelon.mp3"
+        }
+      ]
+    },
+    {
+      "category": "Vegetables",
+      "hebrewCategory": "\u05d9\u05e8\u05e7\u05d5\u05ea",
+      "words": [
+        {
+          "id": 1,
+          "english": "Carrot",
+          "hebrew": "\u05d2\u05d6\u05e8",
+          "soundFile": "../assets/sounds/vegetables/Carrot.mp3"
+        },
+        {
+          "id": 2,
+          "english": "Tomato",
+          "hebrew": "\u05e2\u05d2\u05d1\u05e0\u05d9\u05d4",
+          "soundFile": "../assets/sounds/vegetables/Tomato.mp3"
+        },
+        {
+          "id": 3,
+          "english": "Cucumber",
+          "hebrew": "\u05de\u05dc\u05e4\u05e4\u05d5\u05df",
+          "soundFile": "../assets/sounds/vegetables/Cucumber.mp3"
+        },
+        {
+          "id": 4,
+          "english": "Potato",
+          "hebrew": "\u05ea\u05e4\u05d5\u05d7 \u05d0\u05d3\u05de\u05d4",
+          "soundFile": "../assets/sounds/vegetables/Potato.mp3"
+        },
+        {
+          "id": 5,
+          "english": "Broccoli",
+          "hebrew": "\u05d1\u05e8\u05d5\u05e7\u05d5\u05dc\u05d9",
+          "soundFile": "../assets/sounds/vegetables/Broccoli.mp3"
+        },
+        {
+          "id": 6,
+          "english": "Corn",
+          "hebrew": "\u05ea\u05d9\u05e8\u05e1",
+          "soundFile": "../assets/sounds/vegetables/Corn.mp3"
+        }
+      ]
+    },
+    {
+      "category": "Colors",
+      "hebrewCategory": "\u05e6\u05d1\u05e2\u05d9\u05dd",
+      "words": [
+        {
+          "id": 1,
+          "english": "Red",
+          "hebrew": "\u05d0\u05d3\u05d5\u05dd",
+          "soundFile": "../assets/sounds/colors/Red.mp3"
+        },
+        {
+          "id": 2,
+          "english": "Blue",
+          "hebrew": "\u05db\u05d7\u05d5\u05dc",
+          "soundFile": "../assets/sounds/colors/Blue.mp3"
+        },
+        {
+          "id": 3,
+          "english": "Green",
+          "hebrew": "\u05d9\u05e8\u05d5\u05e7",
+          "soundFile": "../assets/sounds/colors/Green.mp3"
+        },
+        {
+          "id": 4,
+          "english": "Yellow",
+          "hebrew": "\u05e6\u05d4\u05d5\u05d1",
+          "soundFile": "../assets/sounds/colors/Yellow.mp3"
+        },
+        {
+          "id": 5,
+          "english": "Purple",
+          "hebrew": "\u05e1\u05d2\u05d5\u05dc",
+          "soundFile": "../assets/sounds/colors/Purple.mp3"
+        },
+        {
+          "id": 6,
+          "english": "Orange",
+          "hebrew": "\u05db\u05ea\u05d5\u05dd",
+          "soundFile": "../assets/sounds/colors/Orange.mp3"
+        },
+        {
+          "id": 7,
+          "english": "Black",
+          "hebrew": "\u05e9\u05d7\u05d5\u05e8",
+          "soundFile": "../assets/sounds/colors/Black.mp3"
+        },
+        {
+          "id": 8,
+          "english": "White",
+          "hebrew": "\u05dc\u05d1\u05df",
+          "soundFile": "../assets/sounds/colors/White.mp3"
+        }
+      ]
+    },
+    {
+      "category": "Family",
+      "hebrewCategory": "\u05de\u05e9\u05e4\u05d7\u05d4",
+      "words": [
+        {
+          "id": 1,
+          "english": "Father",
+          "hebrew": "\u05d0\u05d1\u05d0",
+          "soundFile": "../assets/sounds/family/Father.mp3"
+        },
+        {
+          "id": 2,
+          "english": "Mother",
+          "hebrew": "\u05d0\u05de\u05d0",
+          "soundFile": "../assets/sounds/family/Mother.mp3"
+        },
+        {
+          "id": 3,
+          "english": "Brother",
+          "hebrew": "\u05d0\u05d7",
+          "soundFile": "../assets/sounds/family/Brother.mp3"
+        },
+        {
+          "id": 4,
+          "english": "Sister",
+          "hebrew": "\u05d0\u05d7\u05d5\u05ea",
+          "soundFile": "../assets/sounds/family/Sister.mp3"
+        },
+        {
+          "id": 5,
+          "english": "Grandfather",
+          "hebrew": "\u05e1\u05d1\u05d0",
+          "soundFile": "../assets/sounds/family/Grandfather.mp3"
+        },
+        {
+          "id": 6,
+          "english": "Grandmother",
+          "hebrew": "\u05e1\u05d1\u05ea\u05d0",
+          "soundFile": "../assets/sounds/family/Grandmother.mp3"
+        },
+        {
+          "id": 7,
+          "english": "Baby",
+          "hebrew": "\u05ea\u05d9\u05e0\u05d5\u05e7",
+          "soundFile": "../assets/sounds/family/Baby.mp3"
+        }
+      ]
+    },
+    {
+      "category": "Body Parts",
+      "hebrewCategory": "\u05d7\u05dc\u05e7\u05d9 \u05d2\u05d5\u05e3",
+      "words": [
+        {
+          "id": 1,
+          "english": "Head",
+          "hebrew": "\u05e8\u05d0\u05e9",
+          "soundFile": "../assets/sounds/body_parts/Head.mp3"
+        },
+        {
+          "id": 2,
+          "english": "Eye",
+          "hebrew": "\u05e2\u05d9\u05df",
+          "soundFile": "../assets/sounds/body_parts/Eye.mp3"
+        },
+        {
+          "id": 3,
+          "english": "Ear",
+          "hebrew": "\u05d0\u05d5\u05d6\u05df",
+          "soundFile": "../assets/sounds/body_parts/Ear.mp3"
+        },
+        {
+          "id": 4,
+          "english": "Nose",
+          "hebrew": "\u05d0\u05e3",
+          "soundFile": "../assets/sounds/body_parts/Nose.mp3"
+        },
+        {
+          "id": 5,
+          "english": "Mouth",
+          "hebrew": "\u05e4\u05d4",
+          "soundFile": "../assets/sounds/body_parts/Mouth.mp3"
+        },
+        {
+          "id": 6,
+          "english": "Hand",
+          "hebrew": "\u05d9\u05d3",
+          "soundFile": "../assets/sounds/body_parts/Hand.mp3"
+        },
+        {
+          "id": 7,
+          "english": "Foot",
+          "hebrew": "\u05e8\u05d2\u05dc",
+          "soundFile": "../assets/sounds/body_parts/Foot.mp3"
+        },
+        {
+          "id": 8,
+          "english": "Hair",
+          "hebrew": "\u05e9\u05d9\u05e2\u05e8",
+          "soundFile": "../assets/sounds/body_parts/Hair.mp3"
+        }
+      ]
+    },
+    {
+      "category": "Clothing",
+      "hebrewCategory": "\u05d1\u05d2\u05d3\u05d9\u05dd",
+      "words": [
+        {
+          "id": 1,
+          "english": "T-Shirt",
+          "hebrew": "\u05d7\u05d5\u05dc\u05e6\u05d4",
+          "soundFile": "../assets/sounds/clothing/T_Shirt.mp3"
+        },
+        {
+          "id": 2,
+          "english": "Pants",
+          "hebrew": "\u05de\u05db\u05e0\u05e1\u05d9\u05d9\u05dd",
+          "soundFile": "../assets/sounds/clothing/Pants.mp3"
+        },
+        {
+          "id": 3,
+          "english": "Shoes",
+          "hebrew": "\u05e0\u05e2\u05dc\u05d9\u05d9\u05dd",
+          "soundFile": "../assets/sounds/clothing/Shoes.mp3"
+        },
+        {
+          "id": 4,
+          "english": "Hat",
+          "hebrew": "\u05db\u05d5\u05d1\u05e2",
+          "soundFile": "../assets/sounds/clothing/Hat.mp3"
+        },
+        {
+          "id": 5,
+          "english": "Socks",
+          "hebrew": "\u05d2\u05e8\u05d1\u05d9\u05d9\u05dd",
+          "soundFile": "../assets/sounds/clothing/Socks.mp3"
+        },
+        {
+          "id": 6,
+          "english": "Dress",
+          "hebrew": "\u05e9\u05de\u05dc\u05d4",
+          "soundFile": "../assets/sounds/clothing/Dress.mp3"
+        },
+        {
+          "id": 7,
+          "english": "Jacket",
+          "hebrew": "\u05de\u05e2\u05d9\u05dc",
+          "soundFile": "../assets/sounds/clothing/Jacket.mp3"
+        },
+        {
+          "id": 8,
+          "english": "Scarf",
+          "hebrew": "\u05e6\u05e2\u05d9\u05e3",
+          "soundFile": "../assets/sounds/clothing/Scarf.mp3"
+        }
+      ]
+    },
+    {
+      "category": "Numbers",
+      "hebrewCategory": "\u05de\u05e1\u05e4\u05e8\u05d9\u05dd",
+      "words": [
+        {
+          "id": 1,
+          "english": "One",
+          "hebrew": "\u05d0\u05d7\u05ea",
+          "soundFile": "../assets/sounds/numbers/One.mp3"
+        },
+        {
+          "id": 2,
+          "english": "Two",
+          "hebrew": "\u05e9\u05ea\u05d9\u05d9\u05dd",
+          "soundFile": "../assets/sounds/numbers/Two.mp3"
+        },
+        {
+          "id": 3,
+          "english": "Three",
+          "hebrew": "\u05e9\u05dc\u05d5\u05e9",
+          "soundFile": "../assets/sounds/numbers/Three.mp3"
+        },
+        {
+          "id": 4,
+          "english": "Four",
+          "hebrew": "\u05d0\u05e8\u05d1\u05e2",
+          "soundFile": "../assets/sounds/numbers/Four.mp3"
+        },
+        {
+          "id": 5,
+          "english": "Five",
+          "hebrew": "\u05d7\u05de\u05e9",
+          "soundFile": "../assets/sounds/numbers/Five.mp3"
+        },
+        {
+          "id": 6,
+          "english": "Six",
+          "hebrew": "\u05e9\u05e9",
+          "soundFile": "../assets/sounds/numbers/Six.mp3"
+        },
+        {
+          "id": 7,
+          "english": "Seven",
+          "hebrew": "\u05e9\u05d1\u05e2",
+          "soundFile": "../assets/sounds/numbers/Seven.mp3"
+        },
+        {
+          "id": 8,
+          "english": "Eight",
+          "hebrew": "\u05e9\u05de\u05d5\u05e0\u05d4",
+          "soundFile": "../assets/sounds/numbers/Eight.mp3"
+        },
+        {
+          "id": 9,
+          "english": "Nine",
+          "hebrew": "\u05ea\u05e9\u05e2",
+          "soundFile": "../assets/sounds/numbers/Nine.mp3"
+        },
+        {
+          "id": 10,
+          "english": "Ten",
+          "hebrew": "\u05e2\u05e9\u05e8",
+          "soundFile": "../assets/sounds/numbers/Ten.mp3"
+        }
+      ]
+    },
+    {
+      "category": "Weather",
+      "hebrewCategory": "\u05de\u05d6\u05d2 \u05d0\u05d5\u05d5\u05d9\u05e8",
+      "words": [
+        {
+          "id": 1,
+          "english": "Sunny",
+          "hebrew": "\u05e9\u05de\u05e9\u05d9",
+          "soundFile": "../assets/sounds/weather/Sunny.mp3"
+        },
+        {
+          "id": 2,
+          "english": "Rainy",
+          "hebrew": "\u05d2\u05e9\u05d5\u05dd",
+          "soundFile": "../assets/sounds/weather/Rainy.mp3"
+        },
+        {
+          "id": 3,
+          "english": "Cloudy",
+          "hebrew": "\u05de\u05e2\u05d5\u05e0\u05df",
+          "soundFile": "../assets/sounds/weather/Cloudy.mp3"
+        },
+        {
+          "id": 4,
+          "english": "Windy",
+          "hebrew": "\u05e1\u05d5\u05e2\u05e8",
+          "soundFile": "../assets/sounds/weather/Windy.mp3"
+        },
+        {
+          "id": 5,
+          "english": "Snowy",
+          "hebrew": "\u05de\u05d5\u05e9\u05dc\u05d2",
+          "soundFile": "../assets/sounds/weather/Snowy.mp3"
+        },
+        {
+          "id": 6,
+          "english": "Hot",
+          "hebrew": "\u05d7\u05dd",
+          "soundFile": "../assets/sounds/weather/Hot.mp3"
+        },
+        {
+          "id": 7,
+          "english": "Cold",
+          "hebrew": "\u05e7\u05e8",
+          "soundFile": "../assets/sounds/weather/Cold.mp3"
+        },
+        {
+          "id": 8,
+          "english": "Storm",
+          "hebrew": "\u05e1\u05d5\u05e4\u05d4",
+          "soundFile": "../assets/sounds/weather/Storm.mp3"
+        }
+      ]
+    },
+    {
+      "category": "Emotions",
+      "hebrewCategory": "\u05e8\u05d2\u05e9\u05d5\u05ea",
+      "words": [
+        {
+          "id": 1,
+          "english": "Happy",
+          "hebrew": "\u05e9\u05de\u05d7",
+          "soundFile": "../assets/sounds/emotions/Happy.mp3"
+        },
+        {
+          "id": 2,
+          "english": "Sad",
+          "hebrew": "\u05e2\u05e6\u05d5\u05d1",
+          "soundFile": "../assets/sounds/emotions/Sad.mp3"
+        },
+        {
+          "id": 3,
+          "english": "Angry",
+          "hebrew": "\u05db\u05d5\u05e2\u05e1",
+          "soundFile": "../assets/sounds/emotions/Angry.mp3"
+        },
+        {
+          "id": 4,
+          "english": "Surprised",
+          "hebrew": "\u05de\u05d5\u05e4\u05ea\u05e2",
+          "soundFile": "../assets/sounds/emotions/Surprised.mp3"
+        },
+        {
+          "id": 5,
+          "english": "Scared",
+          "hebrew": "\u05de\u05e4\u05d7\u05d3",
+          "soundFile": "../assets/sounds/emotions/Scared.mp3"
+        },
+        {
+          "id": 6,
+          "english": "Sleepy",
+          "hebrew": "\u05d9\u05e9\u05e0\u05d5\u05e0\u05d9",
+          "soundFile": "../assets/sounds/emotions/Sleepy.mp3"
+        },
+        {
+          "id": 7,
+          "english": "Confused",
+          "hebrew": "\u05de\u05d1\u05d5\u05dc\u05d1\u05dc",
+          "soundFile": "../assets/sounds/emotions/Confused.mp3"
+        },
+        {
+          "id": 8,
+          "english": "Excited",
+          "hebrew": "\u05e0\u05e8\u05d2\u05e9",
+          "soundFile": "../assets/sounds/emotions/Excited.mp3"
+        }
+      ]
+    },
+    {
+      "category": "Transportation",
+      "hebrewCategory": "\u05ea\u05d7\u05d1\u05d5\u05e8\u05d4",
+      "words": [
+        {
+          "id": 1,
+          "english": "Car",
+          "hebrew": "\u05de\u05db\u05d5\u05e0\u05d9\u05ea",
+          "soundFile": "../assets/sounds/transportation/Car.mp3"
+        },
+        {
+          "id": 2,
+          "english": "Bus",
+          "hebrew": "\u05d0\u05d5\u05d8\u05d5\u05d1\u05d5\u05e1",
+          "soundFile": "../assets/sounds/transportation/Bus.mp3"
+        },
+        {
+          "id": 3,
+          "english": "Train",
+          "hebrew": "\u05e8\u05db\u05d1\u05ea",
+          "soundFile": "../assets/sounds/transportation/Train.mp3"
+        },
+        {
+          "id": 4,
+          "english": "Airplane",
+          "hebrew": "\u05de\u05d8\u05d5\u05e1",
+          "soundFile": "../assets/sounds/transportation/Airplane.mp3"
+        },
+        {
+          "id": 5,
+          "english": "Boat",
+          "hebrew": "\u05e1\u05d9\u05e8\u05d4",
+          "soundFile": "../assets/sounds/transportation/Boat.mp3"
+        },
+        {
+          "id": 6,
+          "english": "Bicycle",
+          "hebrew": "\u05d0\u05d5\u05e4\u05e0\u05d9\u05d9\u05dd",
+          "soundFile": "../assets/sounds/transportation/Bicycle.mp3"
+        },
+        {
+          "id": 7,
+          "english": "Motorcycle",
+          "hebrew": "\u05d0\u05d5\u05e4\u05e0\u05d5\u05e2",
+          "soundFile": "../assets/sounds/transportation/Motorcycle.mp3"
+        },
+        {
+          "id": 8,
+          "english": "Helicopter",
+          "hebrew": "\u05de\u05e1\u05d5\u05e7",
+          "soundFile": "../assets/sounds/transportation/Helicopter.mp3"
+        }
+      ]
+    },
+    {
+      "category": "Toys",
+      "hebrewCategory": "\u05e6\u05e2\u05e6\u05d5\u05e2\u05d9\u05dd",
+      "words": [
+        {
+          "id": 1,
+          "english": "Ball",
+          "hebrew": "\u05db\u05d3\u05d5\u05e8",
+          "soundFile": "../assets/sounds/toys/Ball.mp3"
+        },
+        {
+          "id": 2,
+          "english": "Doll",
+          "hebrew": "\u05d1\u05d5\u05d1\u05d4",
+          "soundFile": "../assets/sounds/toys/Doll.mp3"
+        },
+        {
+          "id": 3,
+          "english": "Teddy Bear",
+          "hebrew": "\u05d3\u05d5\u05d1\u05d9",
+          "soundFile": "../assets/sounds/toys/Teddy_Bear.mp3"
+        },
+        {
+          "id": 4,
+          "english": "Blocks",
+          "hebrew": "\u05e7\u05d5\u05d1\u05d9\u05d5\u05ea",
+          "soundFile": "../assets/sounds/toys/Blocks.mp3"
+        },
+        {
+          "id": 5,
+          "english": "Car Toy",
+          "hebrew": "\u05de\u05db\u05d5\u05e0\u05d9\u05ea \u05e6\u05e2\u05e6\u05d5\u05e2",
+          "soundFile": "../assets/sounds/toys/Car_Toy.mp3"
+        },
+        {
+          "id": 6,
+          "english": "Puzzle",
+          "hebrew": "\u05e4\u05d0\u05d6\u05dc",
+          "soundFile": "../assets/sounds/toys/Puzzle.mp3"
+        },
+        {
+          "id": 7,
+          "english": "Robot",
+          "hebrew": "\u05e8\u05d5\u05d1\u05d5\u05d8",
+          "soundFile": "../assets/sounds/toys/Robot.mp3"
+        },
+        {
+          "id": 8,
+          "english": "Crayons",
+          "hebrew": "\u05e6\u05d1\u05e2\u05d9\u05dd",
+          "soundFile": "../assets/sounds/toys/Crayons.mp3"
+        }
+      ]
+    }
+  ]
+}
